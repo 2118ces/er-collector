@@ -87,11 +87,27 @@ def log(msg):
     print(msg, file=sys.stderr)
 
 
+def msg_due(now):
+    """메시지는 마지막 수집 후 25분 이상 지났을 때만 수집 (호출량 절약)"""
+    stamp = os.path.join(DATA_DIR, "last_msg.txt")
+    try:
+        with open(stamp) as f:
+            last = datetime.fromisoformat(f.read().strip())
+        if now - last < timedelta(minutes=25):
+            return False
+    except (OSError, ValueError):
+        pass
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(stamp, "w") as f:
+        f.write(now.isoformat())
+    return True
+
+
 def main():
     if not SERVICE_KEY:
         sys.exit("SERVICE_KEY 환경변수가 없습니다 (GitHub Secrets 확인)")
     now = datetime.now(KST)
-    do_msg = now.minute < 10 or 30 <= now.minute < 40 or os.environ.get("FORCE_MSG")
+    do_msg = msg_due(now)
 
     for region, (sido, gu_list) in REGIONS.items():
         hpids = set()
