@@ -32706,3 +32706,910 @@
 2026-10-24 18:29:39,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symTypCod,Y000
 2026-10-24 18:29:39,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symTypCodMag,응급실
 2026-10-24 18:29:39,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,trtPrtCodMag,치과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,dutyAddr,"대전광역시 중구 문화로 282, 충남대학교병원 (대사동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,dutyName,충남대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,emcOrgCod,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,hpid,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,rnum,1
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symBlkEndDtm,20261026080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symBlkMsg,10/21~10/25까지 이비인후과 학회 참석으로 oncall Op. 및 intubation 필요한 DNI 환자 수용 불가
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symBlkSttDtm,20261021214600
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,0,trtPrtCodMag,이비인후과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,dutyAddr,"대전광역시 중구 문화로 282, 충남대학교병원 (대사동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,dutyName,충남대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,emcOrgCod,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,hpid,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,rnum,2
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symBlkEndDtm,20261026120000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symBlkMsg,"[성형외과] 봉합 지정시간 => 11A, 3P, 8P"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symBlkSttDtm,20261019100700
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,1,trtPrtCodMag,성형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,dutyAddr,"대전광역시 중구 문화로 282, 충남대학교병원 (대사동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,dutyName,충남대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,emcOrgCod,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,hpid,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,rnum,3
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symBlkEndDtm,20261026120000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symBlkMsg,[소아 청소년과]  소아내시경 불가능함
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symBlkSttDtm,20261019100700
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,2,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,dutyAddr,"대전광역시 중구 문화로 282, 충남대학교병원 (대사동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,dutyName,충남대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,emcOrgCod,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,hpid,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,rnum,4
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symBlkEndDtm,20261026120000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symBlkMsg,[호흡기 내과 ]타병원  항암 환자 초진 불가
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symBlkSttDtm,20261019100700
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,3,trtPrtCodMag,호흡기내과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,dutyAddr,"대전광역시 중구 문화로 282, 충남대학교병원 (대사동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,dutyName,충남대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,emcOrgCod,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,hpid,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,rnum,5
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symBlkEndDtm,20261026120000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symBlkMsg,"[영상의학과] 해당 파트  투시검사/시 술(소아 장중첩증 정복), 소아 초음파 검사/시술 불가능 함"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symBlkSttDtm,20261019100700
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,4,trtPrtCodMag,영상의학과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,dutyAddr,"대전광역시 중구 문화로 282, 충남대학교병원 (대사동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,dutyName,충남대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,emcOrgCod,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,hpid,A1600001
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,rnum,6
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symBlkEndDtm,20261026120000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symBlkMsg,"[신경과] 의료진 부족으로 23시 ~익일 8시까지 신경과 진료 불가( 단,  3일이내 급성뇌경색/뇌전증 지속상태에 대해서는 야간 진료 가능)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symBlkSttDtm,20261019100700
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600001,충남대학교병원,5,trtPrtCodMag,신경과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,rnum,1
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symBlkEndDtm,20261025090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symBlkMsg,성형외과 진료 불가합니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symBlkSttDtm,20261024160000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,6,trtPrtCodMag,성형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,rnum,2
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symBlkEndDtm,20261024210000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symBlkMsg,손(Hand). 척추(Spine) 진료 장시간 지연됩니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symBlkSttDtm,20261024154300
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,7,trtPrtCodMag,정형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,rnum,3
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symBlkEndDtm,20261024210000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symBlkMsg,정형외과 응급수술 중으로 진료 장시간 지연됩니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symBlkSttDtm,20261024154200
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,8,trtPrtCodMag,정형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,rnum,4
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symBlkEndDtm,20261026080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symBlkMsg,영상 시술 불가합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symBlkSttDtm,20261024080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symTypCod,Y0171
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,9,symTypCodMag,영상의학혈관중재(성인)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,rnum,5
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symBlkMsg,[성형외과] 평일 09:00 ~ 20:00(화요일 ~19시까지) / 주말 09:00 ~ 16:00 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,10,trtPrtCodMag,성형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,rnum,6
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symBlkMsg,"[신경과] 매일 07:00 ~ 18:00 가능(seizure, stroke 환자는 ~21:00 가능/stroke 환자 뇌혈관순환 당직날은 자정 이후도 가능)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,11,trtPrtCodMag,신경과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,rnum,7
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symBlkMsg,"[소아과] 월,목 09:00 ~ 22:00 / 화,수 09:00 ~ 17:00 / 금 09:00 ~ 13:00 가능(장중첩, 소아심장, 소아신경 진료불가)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,12,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,rnum,8
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symBlkMsg,[신장내과] 중증 신장내과 환자 f/u 포함 진료불가(경증 가능)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,13,trtPrtCodMag,신장내과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,rnum,9
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symBlkMsg,"[신경외과] 24시간 가능(만8세 이상, 몸무게 30kg 이상 진료가능/소아 경증은 외래진료 가능성 있습니다)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,14,trtPrtCodMag,신경외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,rnum,10
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symBlkMsg,"[안과], [치과], [응급 기관지 내시경] 불가"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,15,trtPrtCodMag,기타 진료과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,rnum,11
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symBlkMsg,[정신과] 24시 가능(입원 필요시 전화)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,16,trtPrtCodMag,정신건강의학과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,rnum,12
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symBlkMsg,[피부과] 매일 ~21:00 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,17,trtPrtCodMag,피부과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,rnum,13
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symBlkMsg,[외과] 매일 08:00 ~ 21:00 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,18,trtPrtCodMag,외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,rnum,14
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symBlkMsg,[이비인후과] 24시간 가능(Deep neck infection 환자는 월~목 15시까지 가능/Neck FB 만6세 이상부터 가능/통화 후 이송바랍니다)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,19,trtPrtCodMag,이비인후과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,rnum,15
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symBlkMsg,"[정형외과] 24시간 가능(주말,공휴일도 가능/소아 가능)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,20,trtPrtCodMag,정형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,rnum,16
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symBlkMsg,[산부인과] 통화 후 이송바랍니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,21,trtPrtCodMag,산부인과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,rnum,17
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symBlkMsg,[비뇨기과] 평일 08:00 ~ 16:30 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symBlkSttDtm,20261019090100
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,22,trtPrtCodMag,비뇨의학과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,rnum,18
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symBlkMsg,진료 불가합니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symBlkSttDtm,20261019083000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symTypCod,Y0070
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,23,symTypCodMag,장중첩/폐색(유아)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,dutyAddr,대전광역시 서구 둔산서로 95 (둔산동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,dutyName,학교법인을지학원대전을지대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,emcOrgCod,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,hpid,A1600002
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,rnum,19
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symBlkMsg,진료 불가합니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symBlkSttDtm,20261019083000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symTypCod,Y0082
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600002,학교법인을지학원대전을지대학교병원,24,symTypCodMag,위장관 응급내시경(영유아)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,rnum,1
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symBlkMsg,본원 응급실 성형외과 진료 불가합니다. 이송 시 참고 바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,25,trtPrtCodMag,성형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,rnum,2
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symBlkMsg,본원 사정에 의하여 안과 평일 08시부터 18시까지만 진료 가능합니다. 이송 시 참고 바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,26,trtPrtCodMag,안과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,rnum,3
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symBlkMsg,본원 사정에 의하여 이비인후과 08시부터 21시까지만 진료가 가능합니다. 이송 시 참고 바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,27,trtPrtCodMag,이비인후과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,rnum,4
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symBlkMsg,산부인과 분만 본원 사정으로 인하여 본원 F/U(37주이상) 환자만 수용 가능합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,28,trtPrtCodMag,산부인과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,rnum,5
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symBlkMsg,본원 사정으로 소아과 진료 불가합니다. 이송 시 참고 바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,29,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,rnum,6
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symBlkMsg,응급실 상황에 따라 (중증응급)환자 수용 불가능할 수 있으니 이송 시 확인 바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,30,trtPrtCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,dutyAddr,"대전광역시 중구 대흥로 64, 성모병원 (대흥동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,dutyName,학교법인가톨릭학원가톨릭대학교대전성모병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,emcOrgCod,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,hpid,A1600005
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,rnum,7
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symBlkEndDtm,20261027235900
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symBlkMsg,본원 사정에 의하여 비뇨기과 야간/주말/공휴일 응급실 진료 불가합니다. 이송 시 참고 바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symBlkSttDtm,20261020180000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600005,학교법인가톨릭학원가톨릭대학교대전성모병원,31,trtPrtCodMag,비뇨의학과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,rnum,1
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symBlkMsg,"일~목요일(07시~21시), 금,토(07시~익일 07시) 이비인후과 진료 가능합니다. / 단, 본원 이비인후과 수술 후 출혈환자 상시 가능합니다."
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,32,trtPrtCodMag,이비인후과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,rnum,2
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symBlkMsg,월~목 08:30-22:00 (공휴일인 경우 불가능)/ 금~일 08:30-익일 08:00 (공휴일에도 가능)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,33,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,rnum,3
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symBlkMsg,당직의 사정에 따라 진료 가능여부 다를 수 있으니 이송 전 확인바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,34,trtPrtCodMag,산부인과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,rnum,4
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symBlkMsg,응급실에서 이비인후과 두경부파트 진료 불가능합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,35,trtPrtCodMag,이비인후과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,rnum,5
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symBlkMsg,[고압산소치료] 본원 monoplace chamber로 환자 모니터링이 불가능하여 자가기도유지 불가능한 환자는 고압산소치료가 불가능합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,36,trtPrtCodMag,병상 또는 장비
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,rnum,6
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symBlkMsg,본원 영상의학중재술이 필요한 환자 시술 및 수술 수용가능 여부는 이송전 꼭 문의 연락부탁드립니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,37,trtPrtCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,rnum,7
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symBlkMsg,응급실에서 피부과 진료 불가능합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,38,trtPrtCodMag,피부과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,rnum,8
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symBlkMsg,"평일(18시~익일 06시), 주말 및 공휴일(06시~익일06시) 본원 URO f/u 환자만 수용 가능합니다. 이송 전 수용 여부 꼭 확인바랍니다."
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,39,trtPrtCodMag,비뇨의학과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,rnum,9
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symBlkMsg,"월-금 08:30~21:00 / 토 24시간 / 일요일 09:00~18:00 진료 가능합니다. 단, 중증 환자의 경우 의뢰 후 결정되니 이송 전 수용 가능여부 확인바랍니다."
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,40,trtPrtCodMag,안과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,rnum,10
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symBlkMsg,응급실에서 치과 진료 불가능합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,41,trtPrtCodMag,치과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,rnum,11
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symBlkEndDtm,20261031130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symBlkMsg,응급실에서 성형외과 진료 불가능 합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symBlkSttDtm,20261024130000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,42,trtPrtCodMag,성형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,rnum,12
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symBlkEndDtm,20261025080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symBlkMsg,본원 의료진 부재로 소아내시경 불가능하니 이송시 참고부탁드립니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symBlkSttDtm,20261023162000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,43,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,dutyAddr,"대전광역시 서구 관저동로 158, 건양대학교병원 (관저동)"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,dutyName,학교법인건양교육재단건양대학교병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,emcOrgCod,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,hpid,A1600006
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,rnum,13
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symBlkEndDtm,20261025080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symBlkMsg,본원 의료진 부재로 소아내시경 불가능하니 이송시 참고부탁드립니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symBlkSttDtm,20261023162000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symTypCod,Y0082
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,symTypCodMag,위장관 응급내시경(영유아)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600006,학교법인건양교육재단건양대학교병원,44,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,rnum,1
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symBlkEndDtm,20261025080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symBlkMsg,신경외과 부재로 수용 불가
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symBlkSttDtm,20261024080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symTypCod,Y0031
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,symTypCodMag,뇌출혈수술(거미막하 출혈)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,45,trtPrtCodMag,신경외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,rnum,2
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symBlkEndDtm,20261025080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symBlkMsg,신경외과 부재로 시술 불가. 이송 전 연락 주세요
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symBlkSttDtm,20261024080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symTypCod,Y0020
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,symTypCodMag,뇌경색의 재관류중재술
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,46,trtPrtCodMag,신경과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,rnum,3
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symBlkEndDtm,20261025080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symBlkMsg,신경외과 부재로 수용 불가
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symBlkMsgTyp,중증
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symBlkSttDtm,20261024080000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symTypCod,Y0032
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,symTypCodMag,뇌출혈수술(거미막하 출혈 외)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,47,trtPrtCodMag,신경외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,rnum,4
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symBlkMsg,외래진료만 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,48,trtPrtCodMag,혈액·종양내과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,rnum,5
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symBlkMsg,산과 부재
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,49,trtPrtCodMag,산부인과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,rnum,6
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symBlkMsg,전문의 부재
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,50,trtPrtCodMag,피부과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,rnum,7
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symBlkMsg,중환자실 중축 공사로 인한 임시 축소 운영으로 병실 부재 입니다 이송전 확인 바랍니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,51,trtPrtCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,rnum,8
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symBlkMsg,흉부외과 전문의 부재로 수용 불가합니다
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,52,trtPrtCodMag,흉부외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,rnum,9
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symBlkMsg,09시부터 22시까지만 가능 대기 시간 있음
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,53,trtPrtCodMag,성형외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,rnum,10
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symBlkMsg,외래진료만 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,54,trtPrtCodMag,치과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,rnum,11
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symBlkMsg,외래 진료만 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,55,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,rnum,12
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symBlkMsg,외래진료만 가능
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,56,trtPrtCodMag,정신건강의학과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,rnum,13
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symBlkMsg,전문의 부재
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,57,trtPrtCodMag,안과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,dutyAddr,대전광역시 유성구 북유성대로 93 (지족동)
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,dutyName,의료법인영훈의료재단유성선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,emcOrgCod,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,hpid,A1600007
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,rnum,14
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symBlkEndDtm,20261026100000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symBlkMsg,"DI 환자, ROSC 환자는 관련 질환과  부재로  수용 불가 합니다"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600007,의료법인영훈의료재단유성선병원,58,trtPrtCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,dutyAddr,"대전광역시 중구 목중로 29 (목동,(목동))"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,dutyName,의료법인영훈의료재단대전선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,emcOrgCod,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,hpid,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,rnum,1
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symBlkMsg,산부인과 당직의 사정에 따라 진료 가능여부 다를 수 있으니 이송 전 확인바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,59,trtPrtCodMag,외과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,dutyAddr,"대전광역시 중구 목중로 29 (목동,(목동))"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,dutyName,의료법인영훈의료재단대전선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,emcOrgCod,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,hpid,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,rnum,2
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symBlkMsg,본원 심정지 후치료(목표체온치료/ECMO등..) 불가합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,60,trtPrtCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,dutyAddr,"대전광역시 중구 목중로 29 (목동,(목동))"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,dutyName,의료법인영훈의료재단대전선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,emcOrgCod,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,hpid,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,rnum,3
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symBlkMsg,구강외과 외래 진료시간(08:30~17:30)외에 응급진료 어려우며 외래진료 시간에도 구강외과 사정에 따라 진료가 제한될 수 있으므로 이송 전 연락바랍니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,61,trtPrtCodMag,치과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,dutyAddr,"대전광역시 중구 목중로 29 (목동,(목동))"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,dutyName,의료법인영훈의료재단대전선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,emcOrgCod,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,hpid,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,rnum,4
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symBlkMsg,소아청소년과 외래진료시간 (08:30~17:30) 이외에 소아전문의 진료 불가능합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,62,trtPrtCodMag,소아청소년과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,dutyAddr,"대전광역시 중구 목중로 29 (목동,(목동))"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,dutyName,의료법인영훈의료재단대전선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,emcOrgCod,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,hpid,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,rnum,5
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symBlkMsg,내분비내과 진료과 사정으로 응급실 진료 및 입원 불가합니다.
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,63,trtPrtCodMag,내분비내과
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,dutyAddr,"대전광역시 중구 목중로 29 (목동,(목동))"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,dutyName,의료법인영훈의료재단대전선병원
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,emcOrgCod,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,hpid,A1600008
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,rnum,6
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symBlkEndDtm,20261026090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symBlkMsg,"이비인후과 출혈(코피포함), ENT적 호흡곤란 동반환자, 타병원 수술후 합병증,목에 이물감,목의 부종과 통증이 동반된 deep neck 감염환자들은 외래 진료시간 (평일 8:30~17:30/토요일 8:30~12:30) 외 진료 불가"
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symBlkMsgTyp,응급
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symBlkSttDtm,20261019090000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symOutDspMth,자동
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symOutDspYon,차단
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symTypCod,Y000
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,symTypCodMag,응급실
+2026-10-24 19:00:42,getEmrrmSrsillDissMsgInqire,A1600008,의료법인영훈의료재단대전선병원,64,trtPrtCodMag,이비인후과
