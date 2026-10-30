@@ -3527,3 +3527,199 @@
 2026-10-30 08:31:02,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symTypCod,Y000
 2026-10-30 08:31:02,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symTypCodMag,응급실
 2026-10-30 08:31:02,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,trtPrtCodMag,정형외과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,rnum,1
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symBlkMsg,"[피부과] 응급실 내 진료어려움, 이송자제"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,0,trtPrtCodMag,피부과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,rnum,2
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symBlkMsg,[신경과] 응급실 진료 어려울 수 있으니 사전연락 바람
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,1,trtPrtCodMag,신경과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,rnum,3
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symBlkMsg,[정신건강의학과] 폐쇄병동 부재 입원 불가
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,2,trtPrtCodMag,정신건강의학과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,rnum,4
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symBlkMsg,"[심장내과] 의료진 공백으로 응급실 내 평일 야간 및 주말, 공휴일 진료 어려움"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,3,trtPrtCodMag,순환기내과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,rnum,5
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symBlkMsg,[소아비뇨의학과] 진료가능여부 사전문의 필요(야간 진료 어려움)
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,4,trtPrtCodMag,비뇨의학과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,rnum,6
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symBlkMsg,[신경외과] 의료진 부족으로 사전 연락 필요
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,5,trtPrtCodMag,신경외과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,rnum,7
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symBlkMsg,[안과] 응급실 진료 어려울수 있으니 사전연락 바람
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,6,trtPrtCodMag,안과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,rnum,8
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symBlkMsg,"[중환자실] 가동 병상수 유동적, 중환 사전연락필수"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,7,trtPrtCodMag,병상 또는 장비
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,rnum,9
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symBlkMsg,"[치과] 응급실 내 진료 어려움, 이송자제"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,8,trtPrtCodMag,치과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,rnum,10
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symBlkMsg,[복부대동맥박리] 수용가능여부 사전연락 바람
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,9,trtPrtCodMag,흉부외과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,rnum,11
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symBlkMsg,"[소아전문응급의료센터] 10월 매주 목요일 제외 22시~익일 10시는 응급·가정분만 신생아, 심폐소생술 필요환자, 뇌전증지속상태 환자만 가능"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,10,trtPrtCodMag,소아청소년과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,rnum,12
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symBlkMsg,"[이비인후과] 응급실 내 진료어려움, 이송자제"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,11,trtPrtCodMag,이비인후과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,rnum,13
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symBlkMsg,[성형외과] 응급실 진료 어려울수 있으니 사전연락 바람
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,12,trtPrtCodMag,성형외과
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,dutyAddr,"세종특별자치시 보듬7로 20, 세종충남대학교병원 (도담동)"
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,dutyName,세종충남대학교병원
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,emcOrgCod,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,hpid,A1800441
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,rnum,14
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symBlkEndDtm,20261031235900
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symBlkMsg,[소아정형외과] 응급실 진료어려울수 있으니 사전연락 바람
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symBlkMsgTyp,응급
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symBlkSttDtm,20261025014000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symOutDspMth,자동
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symOutDspYon,차단
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symTypCod,Y000
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,symTypCodMag,응급실
+2026-10-30 09:01:06,getEmrrmSrsillDissMsgInqire,A1800441,세종충남대학교병원,13,trtPrtCodMag,정형외과
