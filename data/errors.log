@@ -1251,3 +1251,4 @@
 2026-11-04 00:11:48 [msg] A1600007 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-04 13:42:10 [msg] A1602246 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-05 08:32:07 [getSrsillDissAceptncPosblInfoInqire] 세종특별자치시 시도 단위 실패 → 시군구 단위로 재시도: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
+2026-11-05 21:32:16 [msg] A1602246 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
