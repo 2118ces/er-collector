@@ -1294,3 +1294,4 @@
 2026-11-10 13:21:53 [msg] A1600002 실패: 500 Server Error: Internal Server Error for url: http://apis.data.go.kr/B552657/ErmctInfoInqireService/getEmrrmSrsillDissMsgInqire?serviceKey=ade5fa3246b0a325d08e842c3fa3f09222fa610291a7832152a931ab3abe2c10&pageNo=1&numOfRows=100&HPID=A1600002
 2026-11-10 13:22:02 [msg] A1600009 실패: 500 Server Error: Internal Server Error for url: http://apis.data.go.kr/B552657/ErmctInfoInqireService/getEmrrmSrsillDissMsgInqire?serviceKey=ade5fa3246b0a325d08e842c3fa3f09222fa610291a7832152a931ab3abe2c10&pageNo=1&numOfRows=100&HPID=A1600009
 2026-11-10 13:22:33 [getEmrrmRltmUsefulSckbdInfoInqire] 세종특별자치시 시도 단위 실패 → 시군구 단위로 재시도: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
+2026-11-10 16:52:17 [msg] A1800417 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
