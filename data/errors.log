@@ -1328,3 +1328,4 @@
 2026-11-15 19:32:50 [msg] A1600008 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Max retries exceeded with url: /B552657/ErmctInfoInqireService/getEmrrmSrsillDissMsgInqire?serviceKey=ade5fa3246b0a325d08e842c3fa3f09222fa610291a7832152a931ab3abe2c10&pageNo=1&numOfRows=100&HPID=A1600008 (Caused by ConnectTimeoutError(<HTTPConnection(host='apis.data.go.kr', port=80) at 0x766d2b2c5c10>, 'Connection to apis.data.go.kr timed out. (connect timeout=30)'))
 2026-11-16 03:02:55 [msg] A1600009 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-16 04:32:49 [getEmrrmRltmUsefulSckbdInfoInqire] 세종특별자치시 시도 단위 실패 → 시군구 단위로 재시도: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
+2026-11-16 05:03:12 [msg] A1600007 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
