@@ -1344,3 +1344,4 @@
 2026-11-18 01:03:49 [msg] A1800417 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-18 06:03:22 [msg] A1800441 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-18 06:33:01 [msg] A1800417 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
+2026-11-18 08:53:03 [getEmrrmRltmUsefulSckbdInfoInqire] 대전광역시 시도 단위 실패 → 시군구 단위로 재시도: HTTPConnectionPool(host='apis.data.go.kr', port=80): Max retries exceeded with url: /B552657/ErmctInfoInqireService/getEmrrmRltmUsefulSckbdInfoInqire?serviceKey=ade5fa3246b0a325d08e842c3fa3f09222fa610291a7832152a931ab3abe2c10&pageNo=1&numOfRows=100&STAGE1=%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C (Caused by ConnectTimeoutError(<HTTPConnection(host='apis.data.go.kr', port=80) at 0x77b32208c090>, 'Connection to apis.data.go.kr timed out. (connect timeout=30)'))
