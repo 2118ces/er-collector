@@ -1364,3 +1364,4 @@
 2026-11-20 07:33:26 [msg] A1800417 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-20 09:03:26 [msg] A1600009 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
 2026-11-21 19:05:34 [msg] A1800417 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
+2026-11-22 02:27:39 [msg] A1800441 실패: HTTPConnectionPool(host='apis.data.go.kr', port=80): Read timed out. (read timeout=30)
